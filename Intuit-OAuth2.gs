@@ -11,8 +11,8 @@
  * Populate constants with data specific to your application,
  * found at https://developer.intuit.com/v2/ui#/app/appdetail/XXXXXXX
  */
-var CLIENT_ID = 'L0XtsCWttfDXORe29Ukw5bOBGTamKEDPBms5iFn47TdmjCwfCo';
-var CLIENT_SECRET = 'FYX5LtJvkYQrQJHJcY3xLHb36XGgaNNkASQ1FnsI';
+var CLIENT_ID = '...';
+var CLIENT_SECRET = '...';
 
 // See Quickbooks dev portal for current URLs
 var BASE_AUTH_URL = 'https://appcenter.intuit.com/connect/oauth2';
